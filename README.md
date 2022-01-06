@@ -1,4 +1,4 @@
-# www.moehrke.co
+# http://moehrke.co
 
 This repo is a proof-of-concept to test deployment using a Docker Container running Nginx on a Debian AWS EC2 instance, through my own DNS. 
 
