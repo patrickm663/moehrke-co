@@ -1,39 +1,29 @@
 {
-  "private": true,
-  "name": "cara",
-  "description": "Playful and Colorful One-Page portfolio featuring Parallax effects and animations",
-  "version": "0.2.11",
-  "author": "LekoArts <hello@lekoarts.de>",
-  "license": "0BSD",
-  "starter-name": "gatsby-starter-portfolio-cara",
+  "name": "moehrke-co",
+  "version": "1.0.0",
+  "description": "This is the content repo for my personal portfolio site, based off of https://github.com/LekoArts/gatsby-starter-portfolio-cara/",
+  "main": "index.js",
   "scripts": {
-    "build": "gatsby build",
-    "develop": "gatsby develop",
-    "develop:cypress": "cross-env CYPRESS_SUPPORT=y yarn develop",
-    "build:cypress": "cross-env CYPRESS_SUPPORT=y yarn build",
-    "start": "gatsby develop",
-    "serve": "gatsby serve",
-    "clean": "gatsby clean",
+    "test": "echo \"Error: no test specified\" && exit 1",
     "commit": "git cz"
   },
-  "dependencies": {
-    "@lekoarts/gatsby-theme-cara": "^3.0.0",
-    "gatsby": "^4.12.1",
-    "gatsby-plugin-gatsby-cloud": "^4.12.1",
-    "gatsby-plugin-manifest": "^4.12.1",
-    "gatsby-plugin-webpack-bundle-analyser-v2": "^1.1.27",
-    "node-js": "^1.0.0",
-    "nvm": "^0.0.4",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickm663/moehrke-co.git"
   },
-  "devDependencies": {
-    "clean-commit": "^1.0.3",
-    "cross-env": "^7.0.3"
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrickm663/moehrke-co/issues"
   },
+  "homepage": "https://github.com/patrickm663/moehrke-co#readme",
   "config": {
     "commitizen": {
       "path": "cz-conventional-changelog"
     }
+  },
+  "devDependencies": {
+    "clean-commit": "^1.0.3"
   }
 }
