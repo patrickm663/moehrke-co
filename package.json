@@ -1,7 +1,7 @@
 {
-  "name": "moehrke-co",
+  "name": "y",
   "version": "1.0.0",
-  "description": "This is the content repo for my personal portfolio site, based off of https://github.com/LekoArts/gatsby-starter-portfolio-cara/",
+  "description": "This is the content repo for my personal portfolio site. I had originally wanted to use a JS template, but it became unweildly for a first attempt at a portfolio page. As HTML and CSS are fairly new to me, I am relying on the helpful folk at https://www.w3schools.com for inspiration!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,6 @@
     "type": "git",
     "url": "git+https://github.com/patrickm663/moehrke-co.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
