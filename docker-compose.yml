@@ -1,0 +1,12 @@
+version: "3.9"
+services:
+  webpage:
+    build: .
+    ports: 
+      - "8000:80"
+    deploy:
+      restart_policy:
+        condition: on-failure
+        delay: 5s
+        max_attempts: 3
+        window: 120s
