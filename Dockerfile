@@ -1,7 +1,9 @@
-FROM nginx:latest
+FROM node:14
 RUN apt update && apt upgrade -y
-RUN apt install git -y
-RUN apt autoclean -y
-RUN git clone https://github.com/patrickm663/moehrke-co.git
-WORKDIR /moehrke-co
-COPY . /usr/share/nginx/html
+WORKDIR /app
+COPY . /app
+RUN npm install --legacy-peer-deps
+RUN npm install -g gatsby-cli
+RUN gatsby build
+EXPOSE 80
+CMD gatsby serve --port 80 --host 0.0.0.0

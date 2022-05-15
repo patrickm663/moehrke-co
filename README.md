@@ -1,7 +1,8 @@
-# http://moehrke.co
+# moehrke.co
+This is the content repo for my personal portfolio site, based off of https://github.com/LekoArts/gatsby-starter-portfolio-cara/
 
-This repo is a proof-of-concept to test deployment using a Docker Container running Nginx on a Debian AWS EC2 instance, through my own DNS. 
+## Deployment
+Currently WIP, but the site will be served as a docker container running on AWS EC2. Through AWS CloudFront, the site will use HTTPS 
+## Aknowledgements
+It is loosly based off of cloudresumechallenge.dev
 
-The deployment worked as expected, but however this project has been temporarily put in hold until I am able to use a Raspberry Pi as a full-time server solution - with accompanying email server. In addition, the website will be updated to serve as a personal landing page.
-
-![moehrke.co homepage](Images/moehrke-co-homepage.png)
