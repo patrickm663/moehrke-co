@@ -1,5 +1,5 @@
 # https://patrickmoehrke.com
-This is the content repo for my personal portfolio site. I had originally wanted to use a JS template, but it became unweildly for a first attempt at a portfolio page. As HTML and CSS are fairly new to me, I am relying on the helpful folk at https://www.w3schools.com for inspiration!
+This is the content repo for my personal portfolio site. I had originally wanted to use a JS template, but it became unweildly for a first attempt at a portfolio page. As HTML and CSS are fairly new to me, I am relying on the helpful folk at https://www.w3schools.com for inspiration! 
 
 ## Deployment
 The site is currently pipelined from this repo through AWS CodePipeline-managed webhooks to an AWS S3 bucket. Using an S3 bucket has kept cost low for a static webpage compared to running an EC2 instance and an Nginx Docker container.
