@@ -1,6 +1,6 @@
 baseURL = "https://patrickmoehrke.com/"
 languageCode = "en-us"
-title = "Portfolio Site"
+title = "Homepage"
 # theme = "hugo-coder"
 defaultContentLanguage = "en"
 paginate = 20
@@ -48,7 +48,15 @@ url = "https://www.linkedin.com/in/patrick-moehrke-05b09ab3/"
 name = "About"
 weight = 1
 url = "about/"
-#[[menu.main]]
-#name = "Contact"
-#weight = 2
-#url = "contact/"
+[[menu.main]]
+name = "Experience"
+weight = 2
+url = "experience/"
+[[menu.main]]
+name = "Interests"
+weight = 3
+url = "interests/"
+[[menu.main]]
+name = "Contact"
+weight = 4
+url = "contact/"

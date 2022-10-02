@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Patrick Moehrke&#39;s Portfolio Site</title>
+    <title>Portfolio Site</title>
     <link>https://patrickmoehrke.com/</link>
-    <description>Recent content on Patrick Moehrke&#39;s Portfolio Site</description>
+    <description>Recent content on Portfolio Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://patrickmoehrke.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,8 +12,9 @@
       <pubDate>Sun, 02 Oct 2022 18:35:58 +0200</pubDate>
       
       <guid>https://patrickmoehrke.com/about/</guid>
-      <description>Patrick Moehrke is an actuarial consultant with 2 years&#39; experience applying machine learning to actuarial problems.
-He is a Technical member of the Actuarial Society of South Africa, having passed 9 of his actuarial exams.</description>
+      <description>Patrick Moehrke is an actuarial consultant based in Stellenbosch, South Africa at Dupro Advisory Ltd with 2 years&#39; experience applying machine learning to actuarial problems, as well as consulting on IFRS 17.
+He is a Technical member of the Actuarial Society of South Africa, having passed 9 of his actuarial exams. Patrick is aiming towards Fellowship qualification, focus being mortality and morbidity actuarial work.
+Patrick has a passion for development and all things IT.</description>
     </item>
     
     <item>
