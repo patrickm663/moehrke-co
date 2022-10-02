@@ -1,6 +1,6 @@
 baseURL = "https://patrickmoehrke.com/"
 languageCode = "en-us"
-title = "Patrick Moehrke's Portfolio Site"
+title = "Portfolio Site"
 # theme = "hugo-coder"
 defaultContentLanguage = "en"
 paginate = 20
@@ -14,7 +14,7 @@ author = "Patrick Moehrke"
 license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Patrick Moehrke's portfolio site"
 keywords = "blog,developer,personal"
-info = ["Actuarial Consultant", "Machine Learning", "Linux Enthusiast"]
+info = ["Actuarial Consultant & Developer"]
 avatarURL = "images/avatar.jpg"
 gavatar = "patrickmoehrke46@gmail.com"
 dateFormat = "January 2, 2006"
