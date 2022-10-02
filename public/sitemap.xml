@@ -2,8 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://patrickmoehrke.com/experience/</loc>
+    <lastmod>2022-10-02T18:36:18+02:00</lastmod>
+  </url><url>
     <loc>https://patrickmoehrke.com/about/</loc>
     <lastmod>2022-10-02T18:35:58+02:00</lastmod>
+  </url><url>
+    <loc>https://patrickmoehrke.com/interests/</loc>
   </url><url>
     <loc>https://patrickmoehrke.com/categories/</loc>
   </url><url>

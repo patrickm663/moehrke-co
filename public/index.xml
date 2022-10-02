@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portfolio Site</title>
+    <title>Homepage</title>
     <link>https://patrickmoehrke.com/</link>
-    <description>Recent content on Portfolio Site</description>
+    <description>Recent content on Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://patrickmoehrke.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experience</title>
+      <link>https://patrickmoehrke.com/experience/</link>
+      <pubDate>Sun, 02 Oct 2022 18:36:18 +0200</pubDate>
+      
+      <guid>https://patrickmoehrke.com/experience/</guid>
+      <description>He is a Technical member of the Actuarial Society of South Africa, having passed 9 of his actuarial exams. Patrick is aiming towards Fellowship qualification.
+Patrick has strong experience using R and Python for data science &amp;ndash; both in a consulting capacity and as a tutor. He has experience presenting webinars and training pieces to actuarial professionals and others in the insurance industry through Actuartech.
+Patrick has a passion for development and all things IT.</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>https://patrickmoehrke.com/about/</link>
@@ -13,8 +24,16 @@
       
       <guid>https://patrickmoehrke.com/about/</guid>
       <description>Patrick Moehrke is an actuarial consultant based in Stellenbosch, South Africa at Dupro Advisory Ltd with 2 years&#39; experience applying machine learning to actuarial problems, as well as consulting on IFRS 17.
-He is a Technical member of the Actuarial Society of South Africa, having passed 9 of his actuarial exams. Patrick is aiming towards Fellowship qualification, focus being mortality and morbidity actuarial work.
-Patrick has a passion for development and all things IT.</description>
+Patrick has a strong desire to expand his knowledge of DevOps tools and techniques, and hopes to one day successfully interface DevOps principles with actuarial business problems and machine learning to develop robust, scaleable solutions for clients.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://patrickmoehrke.com/interests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://patrickmoehrke.com/interests/</guid>
+      <description>Patrick enjoys reading Stephen King novels and 60s science fiction, researching lost &amp;amp; unknown music over at r/lostwave, training gymnastics, and going for wine and beer tasting around Stellenbosch, South Africa.</description>
     </item>
     
     <item>
