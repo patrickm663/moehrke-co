@@ -1,0 +1,54 @@
+baseURL = "https://patrickmoehrke.com/"
+languageCode = "en-us"
+title = "Patrick Moehrke's Portfolio Site"
+# theme = "hugo-coder"
+defaultContentLanguage = "en"
+paginate = 20
+pygmentsStyle = "bw"
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+enableEmoji = true
+
+[params]
+author = "Patrick Moehrke"
+license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
+description = "Patrick Moehrke's portfolio site"
+keywords = "blog,developer,personal"
+info = ["Actuarial Consultant", "Machine Learning", "Linux Enthusiast"]
+avatarURL = "images/avatar.jpg"
+gavatar = "patrickmoehrke46@gmail.com"
+dateFormat = "January 2, 2006"
+since = 2022
+rtl = false
+colorScheme = "auto"
+# Hide the toggle button, along with the associated vertical divider
+hideColorSchemeToggle = false
+# Series see also post count
+maxSeeAlsoItems = 5
+# Custom CSS
+customCSS = []
+# Custom SCSS
+customSCSS = []
+# Custom JS
+customJS = []
+
+[[params.social]]
+name = "Github"
+icon = "fa fa-2x fa-github"
+weight = 1
+url = "https://github.com/patrickm663/"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa fa-2x fa-linkedin"
+weight = 2
+url = "https://www.linkedin.com/in/patrick-moehrke-05b09ab3/"
+
+[[menu.main]]
+name = "About"
+weight = 1
+url = "about/"
+#[[menu.main]]
+#name = "Contact"
+#weight = 2
+#url = "contact/"
