@@ -10,6 +10,6 @@ Patrick has strong experience using R and Python for data science -- both in a c
 
 Patrick has a passion for development and all things IT. He is a supporter of FOSS that strives to make use of and contribute back to the open source community wherever possible.
 
-In his sparetime, he prefers programming in Julia where possible and feels it is ripe for exploration by the actuarial community. Patrick's development setup is relatively minimal, sticking to [Oh-my-ZSH](https://ohmyz.sh) for his terminal and [Neovim](https://neovim.io) (with a few helpful plugins) for coding and writing config files. 
+In personal projects, he prefers programming in Julia where possible and feels it is ripe for exploration by the actuarial community. Patrick's development setup is relatively minimal, sticking to Oh-my-ZSH for his terminal and Neovim (with a few helpful plugins) for coding and writing config files.
 
 As a developer, Patrick is comfortable in Windows and Linux, including managing Linux server administration tasks. Patrick works in a Linux environment where possible, his daily driver being PopOS. He has experience in Docker and Amazon Web Services, and hosts this website using a combination of S3, CodePipelines, and Cloudfront.
