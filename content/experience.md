@@ -4,7 +4,7 @@ date = 2022-10-02T18:36:18+02:00
 author = "Patrick Moehrke"
 +++
 
-He is a Technical member of the Actuarial Society of South Africa, having passed 9 of his actuarial exams. Patrick is aiming towards Fellowship qualification.
+Patrick is a Technical member of the Actuarial Society of South Africa, having passed 9 of his actuarial exams. Patrick is aiming towards Fellowship qualification.
 
 Patrick has strong experience using R and Python for data science -- both in a consulting capacity and as a tutor. He has experience presenting webinars and training pieces to actuarial professionals and others in the insurance industry through [Actuartech](https://actuartech.com).
 
