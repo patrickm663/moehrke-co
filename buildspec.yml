@@ -1,0 +1,13 @@
+version: 0.2
+
+phases:
+  install:
+    commands:
+      - apt update
+      - apt install hugo -y
+  build:
+    commands:
+      - hugo
+      - echo "Uploading to S3"
+      - aws s3 sync public/ s3://moehrke-co-webpage/ --region us-east-1 --delete --acl public-read
+      - echo "Upload complete!"
