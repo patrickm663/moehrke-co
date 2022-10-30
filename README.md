@@ -6,7 +6,7 @@ The site is currently pipelined from this repo through AWS CodePipeline-managed 
 
 I use AWS CloudFront to serve the site through HTTPS, and the domain name is https://patrickmoehrke.com - managed through AWS Route 53.
 
-There is now a form field in the [contacts page](https://patrickmoehrke.com/contact)! When a user sends a message through the contact form, an API POST request is made to an AWS Lambda function which sends me an email notification with the message (thanks to AWS SES). The Lambda function is written in NodeJS and the API is a REST API, created using Amazon API Gateway. 
+There is now a form field in the [contacts page](https://patrickmoehrke.com/contact)! When a user sends a message through the contact form, an API POST request is made to an AWS Lambda function which sends me an email notification with the message (thanks to AWS SES). The Lambda function is written in NodeJS and the API is a REST API, created using Amazon API Gateway. There is also some nifty Javascript to disable and re-enable the button between requests, and ensure all required fields are filled before proceeding 
 
 Future implementations will see IaC (likely Terraform) in a separate repo to version control the AWS infastructure.
 
