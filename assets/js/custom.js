@@ -3,8 +3,8 @@ function sendMessage(name, email, subject, message) {
     email = String(email).trim();
     subject = String(subject).trim();
     message = String(message).trim();
-    if(name == "" || email == "" || subject == "" || message == ""){
-        alert("Not all fields complete!");
+    if(name == "" || email == "" || subject == "" || message == "" || !String(email).includes("@") || !String(email).includes(".")) {
+        alert("Please ensure all fields are complete and/or email is valid");
     } else {
         document.getElementById("submit").disabled = true;
         var myHeaders = new Headers();
