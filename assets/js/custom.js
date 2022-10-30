@@ -34,3 +34,21 @@ function sendMessage(name, email, subject, message) {
             .catch(e => console.log(e));
     }
 }
+
+function getVisitorCount(){
+        var myHeaders = new Headers();
+        myHeaders.append("Content-Type", "application/json");
+        var raw = JSON.stringify({});
+        var requestOptions = {
+            method: "POST",
+            headers: myHeaders,
+            body: raw,
+            redirect: "follow"
+        };
+    fetch("https://fiokcjyrp1.execute-api.us-east-1.amazonaws.com/dev", requestOptions).then((result) => {
+        result.json().then((resp) => {
+            var visitors = document.getElementById('visitors');
+            visitors.innerHTML = "Visitor Count: " + String(resp);
+        })
+    })
+}

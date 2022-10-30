@@ -10,6 +10,7 @@ I would love to connect! Reach out to me through [GitHub](https://github.com/pat
 </br>
 <script type="text/javascript" src="https://unpkg.com/tailwindcss-jit-cdn"></script>
 <script src="/js/custom.js"></script>
+  <body onload="getVisitorCount()">
   <div class="mb-3 pt-0">
     <input type="text" placeholder="Your name" name="name" id="name" class="px-3 py-3 placeholder-gray-400 text-gray-600 relative bg-white bg-white rounded text-sm border-0 shadow outline-none focus:outline-none focus:ring w-full" required />
 
@@ -57,5 +58,8 @@ onclick="sendMessage(document.getElementById('name').value, document.getElementB
     >Send a message</button>
 
   </div>
+  <br/>
+  <p id="visitors" class="text-center">Visitor Count: </p>
+  </body>
 
 {{< /rawhtml >}}
