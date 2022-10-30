@@ -30,7 +30,7 @@ customCSS = []
 # Custom SCSS
 customSCSS = []
 # Custom JS
-customJS = []
+#customJS = ["js/custom.js"]
 
 [[params.social]]
 name = "Github"
