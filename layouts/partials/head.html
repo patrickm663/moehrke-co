@@ -17,3 +17,7 @@
 {{ partialCached "head/hugo-generator.html" . }}
 
 {{ partial "head/extensions.html" . }}
+
+{{ range .Site.Params.custom_js -}}
+    <link rel="stylesheet" href="{{ . | absURL }}">
+{{- end }}

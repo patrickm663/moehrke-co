@@ -1,4 +1,5 @@
 baseURL = "https://patrickmoehrke.com/"
+#relativeURLS = true
 languageCode = "en-us"
 title = "Homepage"
 # theme = "hugo-coder"
@@ -30,7 +31,7 @@ customCSS = []
 # Custom SCSS
 customSCSS = []
 # Custom JS
-#customJS = ["js/custom.js"]
+customJS = ["js/custom.js"]
 
 [[params.social]]
 name = "Github"
