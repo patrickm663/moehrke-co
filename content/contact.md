@@ -8,13 +8,9 @@ I would love to connect! Reach out to me through [GitHub](https://github.com/pat
 
 {{< rawhtml >}}
 </br>
-<script src="https://unpkg.com/tailwindcss-jit-cdn"></script>
+<script type="text/javascript" src="https://unpkg.com/tailwindcss-jit-cdn"></script>
 <script src="/js/custom.js"></script>
-
-<form onsubmit="sendMessage(document.getElementById('name').value, document.getElementById('email').value, document.getElementById('subject').value, document.getElementById('message').value)">
-
   <div class="mb-3 pt-0">
-
     <input type="text" placeholder="Your name" name="name" id="name" class="px-3 py-3 placeholder-gray-400 text-gray-600 relative bg-white bg-white rounded text-sm border-0 shadow outline-none focus:outline-none focus:ring w-full" required />
 
   </div>
@@ -55,12 +51,11 @@ I would love to connect! Reach out to me through [GitHub](https://github.com/pat
 
       class="bg-blue-500 text-white active:bg-blue-600 font-bold uppercase text-sm px-6 py-3 rounded shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150"
 
+onclick="sendMessage(document.getElementById('name').value, document.getElementById('email').value, document.getElementById('subject').value, document.getElementById('message').value)"
       type="submit"
-
+      id="submit"
     >Send a message</button>
 
   </div>
-
-</form>
 
 {{< /rawhtml >}}
