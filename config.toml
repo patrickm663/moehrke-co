@@ -19,7 +19,7 @@ info = ["Actuarial Consultant & Developer"]
 avatarURL = "images/avatar.jpg"
 gavatar = "patrickmoehrke46@gmail.com"
 dateFormat = "January 2, 2006"
-since = 2022
+since = 2023
 rtl = false
 colorScheme = "auto"
 # Hide the toggle button, along with the associated vertical divider
