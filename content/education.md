@@ -3,6 +3,7 @@ title = "Education & Certifications"
 date = 2023-07-01
 author = "Patrick Moehrke"
 +++
+
 Below is a summary of my tertiary education, ASSA exams, and certifications achieved to date:
 ## Education
 ### BCom Hons Actuarial Science | _2020_ | Stellenbosch University, Western Cape, ZA

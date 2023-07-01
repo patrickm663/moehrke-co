@@ -1,6 +1,7 @@
 +++
 title = "Contact"
-slug = "contact"
+date = 2023-07-01
+author = "Patrick Moehrke"
 +++
 
 I would love to connect! Reach out to me through [GitHub](https://github.com/patrickm663) or [LinkedIn](https://linkedin.com/in/patrick-moehrke-05b09ab3). Alternatively, send me a message below:
