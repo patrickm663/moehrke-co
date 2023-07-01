@@ -1,3 +1,6 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Build Static Site](https://github.com/patrickm663/moehrke-co/actions/workflows/build-website.yml/badge.svg)
+
 # https://patrickmoehrke.com
 This is the content repo for my personal portfolio site, built using [Hugo](https://gohugo.io) and the Hugo theme [hugo-coder](https://github.com/luizdepra/hugo-coder/). 
 
