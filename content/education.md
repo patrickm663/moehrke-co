@@ -29,4 +29,8 @@ This project was very interesting for three main reasons:
 
 ## Certifications
 ### AWS Certified Cloud Practitioner | _2023_
-I am currently studying towards **AWS Solutions Architect Associate**. A combination of on-the-job training, personal projects (such as this site), and free resources available on AWS Skill Explorer & YouTube have made studying for the certifications an enjoyable journey. I find they help focus my learning and development, but I do not believe they substitute hands-on experience and learning through experimentation (whatever the certificate or exam is in).
+I am currently studying towards **AWS Solutions Architect Associate**.
+
+A combination of on-the-job training, personal projects (such as this site), and free resources available on AWS Skill Explorer & YouTube have made studying for the certifications an enjoyable journey.
+
+I find they help focus my learning and development, but I do not believe they substitute hands-on experience and learning through experimentation (whatever the certificate or exam is in).
