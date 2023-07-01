@@ -6,11 +6,11 @@ author = "Patrick Moehrke"
 
 Below is a summary of my tertiary education, ASSA exams, and certifications achieved to date:
 ## Education
-### BCom Hons Actuarial Science | _2020_ | Stellenbosch University, Western Cape, ZA
+### BCom Honours Actuarial Science | _2020_ | Stellenbosch University, Western Cape, ZA
 **Honours Research Project: _Evaluating the use of genetics to calculate risk premiums with applications to Huntington’s Disease_**
 
-This project was very interesting for two reasons:
-- The topic exposed me to genetics and how one can construct survival models for genetic deseases
+This project was very interesting for three main reasons:
+- The topic exposed me to genetics and how one can construct survival models for genetic diseases
 - All of the modelling needed to be performed from first-principles (as there were no available packages) which made me more comfortable with scientific computing and numerical methods 
 - It was my first real exposure to LaTeX and taught me how R can interface with LaTeX to produce pretty tables and plots.
 
@@ -30,3 +30,4 @@ Actuarial Science and Mathematical Statistics
 
 ## Certifications
 ### AWS Certified Cloud Practitioner | _2023_
+I cam currently studying towards **AWS Solutions Architect Associate**.
