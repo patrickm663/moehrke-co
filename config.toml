@@ -15,7 +15,7 @@ author = "Patrick Moehrke"
 license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Patrick Moehrke's portfolio site"
 keywords = "blog,developer,personal"
-info = ["Actuarial Consultant & Developer"]
+info = ["Actuarial Consultant | Data Scientist | Cloud Practitioner"]
 avatarURL = "images/avatar.jpg"
 gavatar = "patrick@patrickmoehrke.com"
 dateFormat = "January 2, 2006"
@@ -51,8 +51,6 @@ name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
 weight = 2
 url = "https://www.linkedin.com/in/patrick-moehrke-05b09ab3/"
-
-
 
 [[menu.main]]
 name = "About"
