@@ -17,6 +17,6 @@ I am closely following the cloud native space and developing small projects on l
 
 Lately, I have been fortunate enough to be involved in research projects using Bayesian modelling (turing.jl, GaussianProcesses.jl), analytical approximation (SymbolicRegression.jl), and fairness modelling (fairlearn) libraries. These approaches can produce models which are very flexible, communicate uncertainty, are more transparent, and can help protect marginalised groups against unfair outcomes.
 
-In my sparetime, I like to work on personal projects, tinker with my dot files (Neovim, mainly - no WM yet :) ), and contribute backto open source projects where I can. I feel strongly about software that is open and freely accessible so all can benefit and learn from it.
+In my sparetime, I like to work on personal projects, tinker with my dot files (Neovim, mainly - no WM yet :) ), and contribute back to open source projects where I can. I feel strongly about software that is open and freely accessible so all can benefit and learn from it.
 
 Away from my desk, I enjoy reading, gymnastics, podcasts, and travelling.
