@@ -44,7 +44,6 @@ jobs:
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Git commit static site artifacts
         if: github.event_name == 'push'
-        uses: actions/upload-artifact@v3
         run: |
           git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
           git config --global user.email "patrickm663@users.noreply.github.com"
