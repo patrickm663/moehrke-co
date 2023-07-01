@@ -15,8 +15,7 @@ This project was very interesting for three main reasons:
 - It was my first real exposure to LaTeX and taught me how R can interface with LaTeX to produce pretty tables and plots.
 
 ### BCom Actuarial Science | _2017-2019_ | Stellenbosch University, Western Cape, ZA
-#### Majors
-Actuarial Science and Mathematical Statistics
+**Majors: Actuarial Science and Mathematical Statistics**
 
 ### Actuarial Society of South Africa (ASSA) | _2017-Present_
 #### Exam Results
