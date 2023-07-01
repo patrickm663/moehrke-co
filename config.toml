@@ -17,7 +17,7 @@ description = "Patrick Moehrke's portfolio site"
 keywords = "blog,developer,personal"
 info = ["Actuarial Consultant & Developer"]
 avatarURL = "images/avatar.jpg"
-gavatar = "patrickmoehrke46@gmail.com"
+gavatar = "patrick@patrickmoehrke.com"
 dateFormat = "January 2, 2006"
 since = 2023
 rtl = false
@@ -32,6 +32,13 @@ customCSS = []
 customSCSS = []
 # Custom JS
 customJS = ["js/custom.js"]
+commit = "https://github.com/patrickm663/moehrke-co/tree"
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
 
 [[params.social]]
 name = "Github"
@@ -45,6 +52,8 @@ icon = "fa fa-2x fa-linkedin"
 weight = 2
 url = "https://www.linkedin.com/in/patrick-moehrke-05b09ab3/"
 
+
+
 [[menu.main]]
 name = "About"
 weight = 1
@@ -54,10 +63,14 @@ name = "Experience"
 weight = 2
 url = "experience/"
 [[menu.main]]
-name = "Interests"
+name = "Posts"
 weight = 3
+url = "posts/"
+[[menu.main]]
+name = "Interests"
+weight = 4
 url = "interests/"
 [[menu.main]]
 name = "Contact"
-weight = 4
+weight = 5
 url = "contact/"
