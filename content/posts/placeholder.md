@@ -2,7 +2,7 @@
 author = "Patrick Moehrke"
 title = "Coming Soon"
 description = "Blog posts are coming soon"
-date = 2022-10-02T18:35:58+02:00
+date = 2023-07-01
 aliases = ["posts"]
 +++
 
