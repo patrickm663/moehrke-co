@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.108.0
-      CI_COMMIT_MESSAGE: Continuous integration build
+      CI_COMMIT_MESSAGE: CICD: Automated build
       CI_COMMIT_AUTHOR: Continuous Integration
 
     steps:
