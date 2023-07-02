@@ -19,7 +19,10 @@ This project was very interesting for three main reasons:
 
 **Coursework**
 
-Actuarial Risk Management, Communications, Financial Engineering and Loss Reserving, Extreme Value Theory
+- Actuarial Risk Management
+- Communications
+- Financial Engineering and Loss Reserving
+- Extreme Value Theory
 
 **Activities**
 - Maties Gymnastics Chairperson | _2020_

@@ -3,8 +3,6 @@ title = "Experience"
 date = 2023-07-02
 author = "Patrick Moehrke"
 +++
-Below is an overview of my work experience to date:
-
 ### Dupro Advisory | Actuarial Consultant @ Dupro Advisory
 _2020-Present_
 
