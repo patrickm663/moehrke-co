@@ -1,7 +1,7 @@
 baseURL = "https://patrickmoehrke.com/"
 #relativeURLS = true
 languageCode = "en-us"
-title = "Homepage"
+title = "Patrick Moehrke"
 # theme = "hugo-coder"
 defaultContentLanguage = "en"
 paginate = 20
