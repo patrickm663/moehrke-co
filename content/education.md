@@ -15,7 +15,7 @@ _Evaluating the use of genetics to calculate risk premiums with applications to 
 This project was very interesting for three main reasons:
 - The topic exposed me to genetics and how one can construct survival models for genetic diseases
 - All of the modelling needed to be performed from first-principles (as there were no available packages) which made me more comfortable with scientific computing and numerical methods 
-- It was my first real exposure to LaTeX and taught me how R can interface with LaTeX to produce pretty tables and plots.
+- It was my first real exposure to $\LaTeX$ and taught me how R can interface with $\LaTeX$ to produce pretty tables and plots.
 
 **Coursework**
 
