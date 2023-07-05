@@ -47,6 +47,7 @@ jobs:
         run: |
           git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
           git config --global user.email "patrickm663@users.noreply.github.com"
+          git pull
           git add .
-          git commit -m "${{ env.CI_COMMIT_MESSAGE }}"
+          git commit -m "${{ env.CI_COMMIT_MESSAGE }}" || echo "No changes to commit"
           git push
