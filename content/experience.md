@@ -1,9 +1,9 @@
 +++
 title = "Experience"
-date = 2023-07-02
+date = 2023-08-15
 author = "Patrick Moehrke"
 +++
-### Dupro Advisory | Actuarial Consultant
+### Actuartech | Actuarial Consultant
 _2020-Present_
 
 #### Responsibilities

@@ -1,6 +1,6 @@
 +++
 title = "Education & Certifications"
-date = 2023-07-02
+date = 2023-08-15
 author = "Patrick Moehrke"
 +++
 
@@ -21,8 +21,8 @@ This project was very interesting for three main reasons:
 
 - Actuarial Risk Management
 - Communications
-- Financial Engineering and Loss Reserving
 - Extreme Value Theory
+- Financial Engineering and Loss Reserving
 
 **Activities**
 - Maties Gymnastics Chairperson | _2020_
@@ -37,6 +37,7 @@ Actuarial Science and Mathematical Statistics
 
 **Awards**
 - Golden Key International Honours Society | _2018_
+- Dean's Merit Award for 6 subjects
 
 **Activities**
 - Maties Gymnastics Treasurer | _2019_
@@ -57,9 +58,5 @@ _2017-Present_
 
 ## Certifications
 **Awarded**
-
 AWS Certified Cloud Practitioner | _March 2023_
-
-**Upcoming**
-
 AWS Solutions Architect Associate | _July 2023_

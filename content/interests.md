@@ -1,6 +1,6 @@
 +++
 title = "Interests"
-date = 2023-07-01
+date = 2023-08-15
 author = "Patrick Moehrke"
 +++
 
