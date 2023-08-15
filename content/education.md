@@ -57,6 +57,5 @@ _2017-Present_
 ---
 
 ## Certifications
-**Awarded**
 - AWS Certified Cloud Practitioner | _March 2023_
 - AWS Solutions Architect Associate | _July 2023_
