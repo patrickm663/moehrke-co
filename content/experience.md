@@ -24,3 +24,5 @@ In this role I perform a mix of internal business development and client-facing 
 - **Containers:** Docker
 - **Infrastructure as Code:** Terraform
 - **CI/CD:** GitHub Actions, GitLab CICD
+
+My CV is available [here](https://patrick-moehrke-cv-pdf.s3.amazonaws.com/pmoehrke.pdf).
