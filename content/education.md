@@ -37,7 +37,7 @@ Actuarial Science and Mathematical Statistics
 
 **Awards**
 - Golden Key International Honours Society | _2018_
-- Dean's Merit Award for 6 subjects
+- Dean's Merit List for 6 subjects
 
 **Activities**
 - Maties Gymnastics Treasurer | _2019_
