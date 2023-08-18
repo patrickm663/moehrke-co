@@ -58,4 +58,4 @@ jobs:
           git commit -m "${{ env.CI_COMMIT_MESSAGE }}" || echo "No changes to commit"
           git push
       - name: Upload to S3
-        run: aws s3 sync . ${{ secrets.S3_BUCKET }} --recursive 
+        run: aws s3 sync . ${{ secrets.S3_BUCKET }} 
