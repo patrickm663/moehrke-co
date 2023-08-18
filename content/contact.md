@@ -4,7 +4,7 @@ date = 2023-07-01
 author = "Patrick Moehrke"
 +++
 
-I would love to connect! Reach out to me through [GitHub](https://github.com/patrickm663) or [LinkedIn](https://linkedin.com/in/patrick-moehrke-05b09ab3). Alternatively, send me a message below:
+I would love to connect! You can reach out to me through [GitHub](https://github.com/patrickm663) or [LinkedIn](https://linkedin.com/in/patrick-moehrke-05b09ab3). Alternatively, send me a message below:
 
 
 {{< rawhtml >}}
