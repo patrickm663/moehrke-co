@@ -1,4 +1,4 @@
-# This workflow installs Hugo and ensures the site builds successfully. 
+# This workflow installs Hugo and ensures the site builds successfully. In addition, it pushes the artifacts back to the repo and S3 once complete. 
 name: Build Hugo site
 
 on:
@@ -31,6 +31,12 @@ jobs:
         uses: actions/checkout@v3
         with:
           submodules: recursive
+      - name: Configure AWS
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ secrets.AWS_REGION }}
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Build with Hugo
@@ -51,3 +57,5 @@ jobs:
           git add .
           git commit -m "${{ env.CI_COMMIT_MESSAGE }}" || echo "No changes to commit"
           git push
+      - name: Upload to S3
+        run: aws s3 sync . ${{ secrets.S3_BUCKET }} --recursive 
