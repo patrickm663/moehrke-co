@@ -6,7 +6,9 @@
 \tableofcontents <!-- you can use \toc as well -->
 
 This section is meant as a refresher if you're new to Franklin.
+
 Have a look at both how the website renders and the corresponding markdown (`index.md`).
+
 Modify at will to get a feeling for how things work!
 
 Ps: if you want to modify the header or footer or the general look of the website, adjust the files in
@@ -22,21 +24,32 @@ The [standard markdown syntax](https://github.com/adam-p/markdown-here/wiki/Mark
 
 or code-blocks `inline` or with highlighting (note the `@def hascode = true` in the source to allow [highlight.js](https://highlightjs.org/) to do its job):
 
-```julia
+```julia:./ex1.jl
 abstract type Point end
+
+# Create a point in R^2 space
 struct PointR2{T<:Real} <: Point
     x::T
     y::T
 end
+
+# Create a point in R^3 space
 struct PointR3{T<:Real} <: Point
     x::T
     y::T
     z::T
 end
+
 function len(p::T) where T<:Point
   sqrt(sum(getfield(p, η)^2 for η ∈ fieldnames(T)))
 end
+
+p1 = PointR2(0.5, 0.6)
+
+@show len(p1)
 ```
+
+\output{./ex1.jl}
 
 You can also quote stuff
 
@@ -46,7 +59,7 @@ or have tables:
 
 | English         | Mandarin   |
 | --------------- | ---------- |
-| winnie the pooh | 维尼熊      |
+| winnie the pooh | 维尼熊     |
 
 Note that you may have to do a bit of CSS-styling to get these elements to look the way you want them (the same holds for the whole page in fact).
 
